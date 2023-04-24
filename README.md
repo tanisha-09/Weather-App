@@ -1,1 +1,2 @@
-# Weather-App
+# Weather-App (Website)
+This app utilizes an API that can provide users with up-to-date weather information from various locations around the world. The app can display current weather conditions such as temperature, wind speed, humidity, and precipitation. This app provides accurate and timely weather information for various locations around the world, which help the users to plan their activities and stay prepared for any weather conditions.
